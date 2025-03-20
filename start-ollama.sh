@@ -1,1 +1,1 @@
-docker run -d -v ollama:/root/.ollama -p 11436:11436 --name ollama3 ollama/ollama
+docker run -d -v ollama:/root/.ollama -p 11435:11435 --name ollama ollama/ollama
